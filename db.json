@@ -1,5 +1,6 @@
-[
-  {
+{
+  "desks": [
+    {
 
         "deskName": "NWE MID DISTILLATES",
         "deskPublicName": null,
@@ -15,4 +16,5 @@
             "TNC1AC48FE"
         ]
     }
-]
+  ]
+}
