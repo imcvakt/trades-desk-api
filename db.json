@@ -1,5 +1,5 @@
 {
-  "TNC1AC48FE": {
+  "TNC1AC48FE": [{
     "desks": [{
         "deskName": "NWE MID DISTILLATES",
         "deskPublicName": null,
@@ -15,7 +15,7 @@
             "TNC1AC48FE"
         ]
      }]
-  },
+  }],
   "desks": [{
       "deskName": "NWE MID DISTILLATES",
       "deskPublicName": null,
