@@ -1,7 +1,6 @@
 {
-  "desks": [
-    {
-
+  "TNC1AC48FE": {
+    "desks": [{
         "deskName": "NWE MID DISTILLATES",
         "deskPublicName": null,
         "isEnabled": null,
@@ -15,6 +14,21 @@
         "legalEntities": [
             "TNC1AC48FE"
         ]
-    }
-  ]
+     }]
+  },
+  "desks": [{
+      "deskName": "NWE MID DISTILLATES",
+      "deskPublicName": null,
+      "isEnabled": null,
+      "isDefault": null,
+      "deskProducts": [
+          {
+              "productGradeVaktId": "PG00001026",
+              "productVaktId": "PR00000002"
+          }
+      ],
+      "legalEntities": [
+          "TNC1AC48FE"
+      ]
+   }]
 }
