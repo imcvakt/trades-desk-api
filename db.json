@@ -1,21 +1,4 @@
 {
-  "TNC1AC48FE": [{
-    "desks": [{
-        "deskName": "NWE MID DISTILLATES",
-        "deskPublicName": null,
-        "isEnabled": null,
-        "isDefault": null,
-        "deskProducts": [
-            {
-                "productGradeVaktId": "PG00001026",
-                "productVaktId": "PR00000002"
-            }
-        ],
-        "legalEntities": [
-            "TNC1AC48FE"
-        ]
-     }]
-  }],
   "desks": [{
       "deskName": "NWE MID DISTILLATES",
       "deskPublicName": null,
@@ -30,5 +13,25 @@
       "legalEntities": [
           "TNC1AC48FE"
       ]
-   }]
+   },
+   {
+      "deskName": "NWE MID DISTILLATES 2",
+      "deskPublicName": null,
+      "isEnabled": null,
+      "isDefault": null,
+      "deskProducts": [
+          {
+              "productGradeVaktId": "PG00001026",
+              "productVaktId": "PR00000002"
+          },
+          {
+              "productGradeVaktId": "PG00001025",
+              "productVaktId": "PR00000001"
+          }
+      ],
+      "legalEntities": [
+          "TNC1AC48FE"
+      ]
+   }
+           ]
 }
